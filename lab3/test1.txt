@@ -1,0 +1,14 @@
+13
+insert 2
+insert 1
+isEmpty  
+insert 9
+print
+extractMax
+print
+insert 10
+print
+insert 9
+print
+extractMax 
+print

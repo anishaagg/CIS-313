@@ -1,0 +1,15 @@
+insert 10
+insert 20
+insert 30
+insert 5
+insert 15
+insert 25
+insert 35
+insert 1
+insert 21
+delete 1
+delete 21
+delete 5
+delete 15
+delete 10
+traverse
